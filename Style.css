@@ -33,7 +33,7 @@ body{
 }
 
 .Sec1{
-    position: relative;
+    position: fixed;
     display: flex;
     flex-direction: column;
     justify-content: center;

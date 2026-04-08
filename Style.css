@@ -12,6 +12,17 @@
   transition: opacity .5s ease, visibility .5s ease;
 }
 
+.spinner {
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid white;
+    border-radius: 100%;
+    box-shadow: 0 0 8px #ffffff, 0 0 8px #ffffff inset;
+}
+
 #loader.hidden {
   opacity: 0;
   visibility: hidden;   

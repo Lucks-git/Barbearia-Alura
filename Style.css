@@ -19,4 +19,5 @@
 
 body{
     font-family: Arial;
+    background: linear-gradient(black, gray, white);
 }

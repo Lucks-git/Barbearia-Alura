@@ -40,6 +40,6 @@ body{
     align-items: center;
     min-height: 90vh;
     min-width: 90vw;
-    background: linear-gradient(180deg, white, gray, black);
+    background: linear-gradient(180deg, white, gray, black) center / cover no-repeat;
     z-index: 2;
 }
